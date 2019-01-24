@@ -1,0 +1,23 @@
+{
+  "name": "brot",
+  "version": "1.0.0",
+  "description": "Another twitter bot",
+  "main": "server.js",
+  "scripts": {
+    "watch": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pipazoul/brot.git"
+  },
+  "author": "Sacha & Yassin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pipazoul/brot/issues"
+  },
+  "homepage": "https://github.com/Pipazoul/brot#readme",
+  "dependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
