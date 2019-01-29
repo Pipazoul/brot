@@ -22,4 +22,9 @@ If it does not work use npm install -g nodemon
 
 
 
+### Twitter posting setup
+
+rename config.js.example to config.js and add your twitter api credentials in it
+
+
 Made by BoringPeople

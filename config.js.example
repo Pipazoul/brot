@@ -1,0 +1,8 @@
+var config = {
+  consumer_key:         'myConsumerKey',
+  consumer_secret:      'myConsumerSecret',
+  access_token:         'myAccessToken',
+  access_token_secret:  'myAccessTokenSecret'
+}
+
+module.exports = config;
